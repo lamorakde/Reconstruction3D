@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1459092616 source:d:\gareth\学习相关\stagepfe\test projet\codeblocks\extractred\redextractrangeway.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1459442791 source:d:\gareth\学习相关\stagepfe\test projet\codeblocks\extractred\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1459497093 source:d:\gareth\学习相关\stagepfe\projet\finished project\extractred c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1460381929 source:d:\gareth\学习相关\stagepfe\finished work\finished project\2. extractred c\red extract distance threshold method.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1460382084 source:d:\gareth\学习相关\stagepfe\finished work\finished project\mire two\2. extractred c\red extract distance threshold method.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1463051193 source:d:\gareth\学习相关\stagepfe\project\method simple de reconstruction 3d\2. extractred c\red extract distance threshold method.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1463135581 source:d:\gareth\学习相关\stagepfe\project\method simple de reconstruction 3d\4. plusieurs\1. pretraitement\1. extractred c\red extract distance threshold method.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

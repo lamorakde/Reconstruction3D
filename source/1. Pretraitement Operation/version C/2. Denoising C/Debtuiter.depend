@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1459534662 source:d:\gareth\学习相关\stagepfe\projet\projet en travaux\codeblocks\debtuiter\debruiter.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"PixelNode.h"
+
+1459250863 d:\gareth\学习相关\stagepfe\projet\projet en travaux\codeblocks\debtuiter\pixelnode.h
+
+1459534662 source:d:\gareth\学习相关\stagepfe\projet\finished project\debtuiter\debruiter.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"PixelNode.h"
+
+1459250863 d:\gareth\学习相关\stagepfe\projet\finished project\debtuiter\pixelnode.h
+
+1459534662 source:d:\gareth\学习相关\stagepfe\finished work\finished project\3. denoising\debruiter.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"PixelNode.h"
+
+1459250863 d:\gareth\学习相关\stagepfe\finished work\finished project\3. denoising\pixelnode.h
+

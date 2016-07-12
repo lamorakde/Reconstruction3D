@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1459100862 source:d:\gareth\学习相关\stagepfe\test projet\squelette\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1459099682 source:d:\gareth\学习相关\stagepfe\test projet\squelette\skeleton after dilatation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1459108718 source:d:\gareth\学习相关\stagepfe\test projet\squelette\thinversion1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1459115386 source:d:\gareth\学习相关\stagepfe\test projet\squelette\thinversion2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1459115538 source:d:\gareth\学习相关\stagepfe\test projet\codeblocks\skeleton\thinversion2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1459099682 source:d:\gareth\学习相关\stagepfe\test projet\codeblocks\skeleton\step.1 dilatation\skeleton after dilatation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1459099682 source:d:\gareth\学习相关\stagepfe\test projet\closed project\skeleton c\step.1 dilatation\skeleton after dilatation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1459099682 source:d:\gareth\学习相关\stagepfe\test projet\closed project\skeleton c\dilatation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1459115538 source:d:\gareth\学习相关\stagepfe\test projet\closed project\skeleton c\thinversion2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1459501719 source:d:\gareth\学习相关\stagepfe\projet\finished project\skeleton c\dilatation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1459443748 source:d:\gareth\学习相关\stagepfe\projet\finished project\skeleton c\thinversion2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1459501719 source:d:\gareth\学习相关\stagepfe\finished work\finished project\4. skeleton c\dilatation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1459943350 source:d:\gareth\学习相关\stagepfe\finished work\finished project\4. skeleton c\skeleton.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1460382472 source:d:\gareth\学习相关\stagepfe\finished work\finished project\mire two\4. skeleton c\dilatation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1460382537 source:d:\gareth\学习相关\stagepfe\finished work\finished project\mire two\4. skeleton c\skeleton.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1463051657 source:d:\gareth\学习相关\stagepfe\project\method simple de reconstruction 3d\4. skeleton c\pixelcoordinate.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1463051573 source:d:\gareth\学习相关\stagepfe\project\method simple de reconstruction 3d\4. skeleton c\dilatation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1463051609 source:d:\gareth\学习相关\stagepfe\project\method simple de reconstruction 3d\4. skeleton c\step.2 skeleton\skeleton.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1463051657 source:d:\gareth\学习相关\stagepfe\project\method simple de reconstruction 3d\3. deuxieme section\1. pretraitement\3. skeleton c\pixelcoordinate.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1463051573 source:d:\gareth\学习相关\stagepfe\project\method simple de reconstruction 3d\4. plusieurs\1. pretraitement\3. skeleton c\dilatation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1463162827 source:d:\gareth\学习相关\stagepfe\project\method simple de reconstruction 3d\4. plusieurs\1. pretraitement\3. skeleton c\dilatation skeleton coordinates.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1463159063 source:d:\gareth\学习相关\stagepfe\project\method simple de reconstruction 3d\4. plusieurs\1. pretraitement\3. skeleton c\dilatation skeleton.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1464002486 source:d:\gareth\学习相关\stagepfe\project\method simple de reconstruction 3d\4. plusieurs\1. pretraitement\3. skeleton c\skeleton.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
